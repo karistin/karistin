@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**karistin/karistin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🌊 My Profile 🌊</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![karistin's GitHub stats](https://github-readme-stats.vercel.app/api?username=karistin&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karistin&layout=compact)](https://github.com/karistin/github-readme-stats)
+
+[![karistin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karistin&layout=compact&range=last_7_days)](https://github.com/karistin/github-readme-stats)
+
+</div>
+  
