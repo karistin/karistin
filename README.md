@@ -4,16 +4,13 @@
   <h2 align-"center"> Hi! My name is Kang Sung Jun 👋👋</h2>
   <h3 align="center"> Now, I'm Studying Server Engineering </h3>
 
-  ---
+
   # My git hub state
   
 ![karistin's GitHub stats](https://github-readme-stats.vercel.app/api?username=karistin&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karistin&layout=compact)](https://github.com/karistin/github-readme-stats)
   
-  ---
-  # WakaTime
-  [![wakatime](https://wakatime.com/badge/user/8336f826-3a61-4d1c-9ba7-cf69bbbeecc6.svg)](https://wakatime.com/@8336f826-3a61-4d1c-9ba7-cf69bbbeecc6)
-  
+
   ---
    # 📚 STACKS
   ### language and framework
