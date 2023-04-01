@@ -12,7 +12,7 @@
   
   ---
   # WakaTime
-  <a href="https://wakatime.com/@8336f826-3a61-4d1c-9ba7-cf69bbbeecc6"><img src="https://wakatime.com/badge/user/8336f826-3a61-4d1c-9ba7-cf69bbbeecc6.svg" alt="Total time coded since Jun 10 2022" /></a>
+  [![wakatime](https://wakatime.com/badge/user/8336f826-3a61-4d1c-9ba7-cf69bbbeecc6.svg)](https://wakatime.com/@8336f826-3a61-4d1c-9ba7-cf69bbbeecc6)
   
   ---
    # 📚 STACKS
