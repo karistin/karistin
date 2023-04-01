@@ -9,7 +9,11 @@
   
 ![karistin's GitHub stats](https://github-readme-stats.vercel.app/api?username=karistin&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karistin&layout=compact)](https://github.com/karistin/github-readme-stats)
-
+  
+  ---
+  # WakaTime
+  <a href="https://wakatime.com/@8336f826-3a61-4d1c-9ba7-cf69bbbeecc6"><img src="https://wakatime.com/badge/user/8336f826-3a61-4d1c-9ba7-cf69bbbeecc6.svg" alt="Total time coded since Jun 10 2022" /></a>
+  
   ---
    # 📚 STACKS
   ### language and framework
