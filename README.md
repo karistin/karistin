@@ -32,23 +32,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+JavaScript               1 hr 3 mins         ██████████████████████░░░   87.78 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+WebStorm                 38 mins             █████████████░░░░░░░░░░░░   53.37 % 
+Claude Code              33 mins             ████████████░░░░░░░░░░░░░   46.63 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 48 mins (66.91%)
+
+✍️ 280 lines written by AI, 1,222 lines written by hand (18.64% AI-written)
+
+🔤 119,061 Input Tokens, 58,122 Output Tokens
+
+💵 $4.64 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 19 AI Prompts
+
+Opus                     280 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 18.64% of written lines came from AI
+📚 Verbose Prompter — average 2,528 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 81.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 21:13:06 UTC
+ Last Updated on 02/09/2026 21:12:48 UTC
 <!--END_SECTION:waka-->
 
   
